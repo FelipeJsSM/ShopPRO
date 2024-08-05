@@ -1,0 +1,6 @@
+@ShopPRO.Test.API_HostAddress = http://localhost:5280
+
+GET {{ShopPRO.Test.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

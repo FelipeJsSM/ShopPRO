@@ -1,0 +1,6 @@
+@ShopPRO.Score.API_HostAddress = http://localhost:5162
+
+GET {{ShopPRO.Score.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
